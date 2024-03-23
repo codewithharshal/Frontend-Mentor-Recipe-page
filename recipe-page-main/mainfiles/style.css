@@ -1,0 +1,174 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Inter:wght@100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F3E5D8;
+}
+
+.hero-img{
+    width: 100%;
+    border-radius: 18px;
+}
+
+.main-text{
+    font-family: Young Serif;
+    padding-top:40px;
+    padding-bottom:30px;
+}
+
+.main-content p{
+    font-weight: 400;
+    margin-bottom: 30px;
+    color: hsl(30, 10%, 34%);
+}
+
+.Ingredients{
+    font-family:Young Serif ;
+}
+
+.Instructions{
+    font-family:Young Serif ;
+}
+
+.Nutrition{
+    font-family:Young Serif ;
+}
+
+.para-text{
+    font-family:Outfit ;
+}
+
+.time-text{
+    font-family:Outfit ;
+    background-color: hsl(330, 100%, 98%);
+    padding:  30px;
+    border-radius: 18px;
+
+}
+
+.time-text h1{
+    color: hsl(332, 51%, 32%);
+    margin-left: -6px;
+    padding: 10px;
+    margin-bottom: 28px;
+}
+
+.time-text span{
+    font-weight: 700;
+    color: hsl(30, 10%, 34%);
+}
+
+.time-text li{
+    color: hsl(30, 10%, 34%);
+    margin: 10px;
+    padding-left: 30px;
+}
+
+.ing-list li{
+    margin-left: 30px;
+    padding-left: 25px;
+    color: hsl(30, 10%, 34%);
+    line-height: 25px;
+}
+
+
+.ing-list{
+    font-family:Outfit ;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+
+}
+
+.ing-list h1{
+    padding-bottom: 25px;
+    color: hsl(14, 45%, 36%);
+}
+
+
+.instruction-list{
+    font-family:Outfit ; 
+    color: hsl(30, 10%, 34%);
+    border-bottom: 1px solid  hsl(30, 10%, 34%);
+    padding-bottom: 30px;
+
+}
+
+.instruction-list h1{
+    padding-bottom: 25px;
+    padding-top: 30px ;
+    color: hsl(14, 45%, 36%);
+}
+
+.instruction-list li{
+    margin-left: 30px;
+    padding-left: 25px;
+    line-height: 30px;
+}
+
+.instruction-list ::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
+
+
+.instruction-list span{
+    font-weight: 700;
+    
+}
+
+.Nutrition-list{
+    font-family:Outfit ;
+}
+
+.Nutrition-list h1{
+    color: hsl(14, 45%, 36%);
+    padding-bottom: 25px;
+    padding-top: 30px ;
+}
+
+
+.Nutrition-list p{
+    color: hsl(30, 10%, 34%);
+    margin-bottom: 20px;
+}
+
+.Nutrition-list table{
+    width: 100%;
+    margin: 25px;
+}
+
+.Nutrition-list td{
+    padding: 10px;
+    border-bottom: 1px solid #F3E5D8;
+    color: hsl(30, 10%, 34%);
+}
+
+.Nutrition-list td:nth-child(even){
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
+.main-content{
+    font-family: Outfit;
+ 
+}
+
+
+.main-continer{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 18px;
+    
+}
